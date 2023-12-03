@@ -1,4 +1,5 @@
-To Update use: 
+To Update use:
+
 git branch -m master main
 
 git fetch origin
