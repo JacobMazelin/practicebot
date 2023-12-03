@@ -1,3 +1,8 @@
+To Update use: 
+git branch -m master main
+git fetch origin
+git branch -u origin/main main
+git remote set-head origin -a
 <a href='https://ko-fi.com/yagsl' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Robot at ko-fi.com'></a>
 # Yet Another Generic Swerve Library (YAGSL) Example project
 
