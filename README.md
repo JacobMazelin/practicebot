@@ -1,7 +1,10 @@
 To Update use: 
 git branch -m master main
+
 git fetch origin
+
 git branch -u origin/main main
+
 git remote set-head origin -a
 
 # Yet Another Generic Swerve Library (YAGSL) Example project
